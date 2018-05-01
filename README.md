@@ -5,4 +5,7 @@
  If state is ready then changes state to "Wait" and performs the required job
  changes the state back to "Ready" (write to file)
  
+ If this program has to be run on different pcs,then have the file on shared drive
+ 
+ 
  This approach one way of addressing the problem, one can use database or check for http://www.terracotta.org/
